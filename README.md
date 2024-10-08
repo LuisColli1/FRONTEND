@@ -1,2 +1,2 @@
 # FRONTEND
-MIS PRACTICAS
+Prácticas Launch X
